@@ -1,0 +1,20 @@
+[
+  {
+    "PROPER_NAME": "TODO",
+    "NAMES": [
+      "todo",
+      "todos"
+    ],
+    "DESCRIPTION": "TODO: Make your own epic keywords"
+  },
+  {
+    "PROPER_NAME": "Fragile",
+    "NAMES": [
+      "불안정",
+      "불안정한",
+      "불안정의",
+      "Fragile"
+    ],
+    "DESCRIPTION": "While in hand, #yFragile decreases by #b1 whenever you play another card. NL When it reaches #b0, #yexhaust this card. NL When returned to your draw pile, #yFragile resets."
+  }
+]

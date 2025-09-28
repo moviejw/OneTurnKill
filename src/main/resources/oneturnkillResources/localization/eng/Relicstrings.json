@@ -1,0 +1,9 @@
+{
+  "${ModID}:Reloader": {
+    "NAME": "Reloader",
+    "FLAVOR": "Important key to change the tide.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yReload into your hand."
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "${ModID}:Strike_Z": {
+    "NAME": "타격",
+    "DESCRIPTION": "피해를 !D! 만큼 두 번 줍니다."
+  },
+  "${ModID}:FogClearing": {
+    "NAME": "안개 걷기",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "${ModID}:FerociousClaw": {
+    "NAME": "사나운 할퀴기",
+    "DESCRIPTION": "피해를 !D! 줍니다. 카드를 !M! 장 버립니다."
+  },
+  "${ModID}:TeaCeremony": {
+    "NAME": "신무월의 다회",
+    "DESCRIPTION": "비용이 !M! 이하인 카드를 2장까지 비용을 0으로 만듭니다."
+  },
+  "${ModID}:Transcode": {
+    "NAME": "트랜스코드",
+    "DESCRIPTION": "카드 !M! 장을 뽑을 카드 더미 맨 위에 놓습니다."
+  },
+  "${ModID}:Intuition": {
+    "NAME": "직관",
+    "DESCRIPTION": "손에 있는 공격 카드가 피해를 !M! 더 줍니다."
+  },
+  "${ModID}:Reload": {
+    "NAME": "재정비",
+    "DESCRIPTION": "원하는 만큼 카드를 뽑을 카드 더미에 섞어넣고 그만큼 다시 뽑습니다."
+  },
+  "${ModID}:ExampleTwoAmountPowerCard": {
+    "NAME": "Two Amount Power",
+    "DESCRIPTION": "At the start of your turn, gain !M! Strength and !${ModID}:m2! Dexterity."
+  },
+  "${ModID}:InlinePowerDemo": {
+    "NAME": "Inline Power",
+    "DESCRIPTION": "Strikes deal !M! more damage. NL At the end of your turn, gain !M! Block.",
+    "EXTENDED_DESCRIPTION": [
+      "Strike+, Block+",
+      "#yStrikes deal #b",
+      " additional damage. At the end of your turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "${ModID}:SelectCardsPlusCardMods": {
+    "NAME": "Cool Card Stuff",
+    "DESCRIPTION": "Choose from 1 of 3 cost 0 cards from any class. NL Add it into your hand. NL It gains Ethereal and Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Choose a card to add into your hand with Ethereal and Exhaust."
+    ]
+  },
+  "${ModID}:EasyXCostDemo": {
+    "NAME": "Easy X Cost",
+    "DESCRIPTION": "{@@}Deal !D! damage X{!M!|>0=+!M!} times. NL Gain X{!M!|>0=+!M!} Strength. NL Exhaust."
+  },
+  "${ModID}:EasyModalChoiceDemo": {
+    "NAME": "Easy Modal Choice",
+    "DESCRIPTION": "Choose one: Draw !M! cards or gain !${ModID}:m2! Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "Draw",
+      "Draw ",
+      " cards.",
+      "Strength",
+      "Gain ",
+      " Strength."
+    ]
+  },
+  "${ModID}:DrawAndShiv": {
+    "NAME": "Draw and Shiv",
+    "DESCRIPTION": "Draw 1 card. NL Add 1 *Shiv into your hand."
+  },
+  "${ModID}:TwoTypesOfDamage": {
+    "NAME": "Two Damage Values",
+    "DESCRIPTION": "Deal !D! damage. NL If you're Vulnerable, deal !${ModID}:sd! damage instead."
+  },
+  "${ModID}:StartupBlockCard": {
+    "NAME": "Startup And AOE",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Startup: Gain !M! Block."
+  },
+  "${ModID}:MultiCardPreviewAndDrawCallback": {
+    "NAME": "Previews and Callbacks",
+    "DESCRIPTION": "{@@}Shuffle *Smite{!Upgrades!|>0=+} and *Safety{!Upgrades!|>0=+} into your draw pile. NL Draw 1 card. NL If it's Colorless, deal !D! damage to ALL enemies."
+  }
+}

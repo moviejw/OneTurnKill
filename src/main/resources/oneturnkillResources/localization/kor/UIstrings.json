@@ -1,0 +1,28 @@
+{
+  "${ModID}:CostZeroAction": {
+    "TEXT": [
+      "비용을 0으로 만들 카드를 선택하십시오."
+    ]
+  },
+  "${ModID}:ReturnToTopDeckAction": {
+    "TEXT": [
+      "뽑을 카드 더미 맨 위로 올릴 카드를 선택하십시오."
+    ]
+  },
+  "${ModID}:ReloadAction": {
+    "TEXT": [
+      "뽑을 카드 더미에 섞어 넣을 카드를 선택하십시오."
+    ]
+  },
+  "${ModID}:CantDrawFromDeck": {
+    "TEXT": [
+      "더 이상 드로우할 수 없어."
+    ]
+  },
+  "${ModID}:Fragile": {
+    "TEXT": [
+      "${ModID}:불안정 ",
+      ". NL "
+    ]
+  }
+}

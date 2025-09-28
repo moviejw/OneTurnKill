@@ -1,0 +1,28 @@
+{
+  "${ModID}:CostZeroAction": {
+    "TEXT": [
+      "Choose cards to reduce cost to 0."
+    ]
+  },
+  "${ModID}:ReturnToTopDeckAction": {
+    "TEXT": [
+      "Choose cards to put on top of your draw pile."
+    ]
+  },
+  "${ModID}:ReloadAction": {
+    "TEXT": [
+      "Choose cards to shuffle into your draw pile."
+    ]
+  },
+  "${ModID}:CantDrawFromDeck": {
+    "TEXT": [
+      "Not enough cards to draw."
+    ]
+  },
+  "${ModID}:Fragile": {
+    "TEXT": [
+      "${ModID}:Fragile ",
+      ". NL "
+    ]
+  }
+}

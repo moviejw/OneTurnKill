@@ -1,0 +1,13 @@
+{
+  "${ModID}:Zaskia": {
+    "NAMES": [
+      "자스키아",
+      "자스키아"
+    ],
+    "TEXT": [
+      "어느 교회에서 같은 임무를 반복하고 있는 검사입니다. NL 상대에게 시간을 주지 않고 빠르게 베어냅니다.",
+      "NL 당신은 검을 준비합니다...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~TODO:~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}

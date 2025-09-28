@@ -1,0 +1,20 @@
+[
+  {
+    "PROPER_NAME": "TODO",
+    "NAMES": [
+      "todo",
+      "todos"
+    ],
+    "DESCRIPTION": "TODO: Make your own epic keywords"
+  },
+  {
+    "PROPER_NAME": "불안정",
+    "NAMES": [
+      "불안정",
+      "불안정한",
+      "불안정의",
+      "Fragile"
+    ],
+    "DESCRIPTION": "손에 있을 때 다른 카드를 사용하면 수치가 #b1 감소하고 #b0 이 되면 이 카드는 #y소멸 합니다. NL 뽑을 카드 더미로 돌아가면 수치가 초기화됩니다."
+  }
+]
